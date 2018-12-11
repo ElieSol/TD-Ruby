@@ -19,4 +19,6 @@ les nombres romains ? (I, V, D, M etc) Source: http://codingdojo.org/
 
 Solution 
 
+Recuperer le fichier solutionTDRuby.rb et marquer dans le terminal:
+
 > ruby solutionTDRuby.rb <nombreàconvertir>
