@@ -16,3 +16,7 @@ tout dans une seule fonction ?
 
 • Quels sont les meilleures structures de données permettant de stocker tout
 les nombres romains ? (I, V, D, M etc) Source: http://codingdojo.org/
+
+Solution 
+
+> ruby solutionTDRuby.rb <nombreàconvertir>
