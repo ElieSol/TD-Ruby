@@ -5,7 +5,7 @@ L’objectif de cet exercice est d’écrire une fonction permettant de converti
 1 -> I 10 -> X 8 -> VIII
 
 Vous trouverez une description complète de comment cela fonctionne sur le lien suivant:
-http://www.novaroma.org/via romana/numbers.html (site en anglais) Ce lien contient aussi une implémentation de cet exercice en langage JS.
+http://www.novaroma.org/via_romana/numbers.html (site en anglais) Ce lien contient aussi une implémentation de cet exercice en langage JS.
 
 Astuces
 
